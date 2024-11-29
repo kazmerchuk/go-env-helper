@@ -1,4 +1,4 @@
-module go-env-helper
+module github.com/kazmerchuk/go-env-helper
 
 go 1.21.0
 
