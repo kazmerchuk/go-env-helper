@@ -1,0 +1,1 @@
+Simple helper to read data from .env and get any variable from there
